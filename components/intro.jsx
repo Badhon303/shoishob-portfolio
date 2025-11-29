@@ -65,6 +65,7 @@ export default function Intro() {
       >
         <span className="font-bold">Hello, I'm Shoishob.</span> As a{" "}
         <span className="font-bold">frontend engineer</span>, Currently working
+        <span className="font-bold">frontend developer</span>, Currently working
         with <span className="font-semibold">Next.js</span> and modern web
         technologies and UI libraries. I enjoy creating{" "}
         <span className="">dynamic, user-focused applications</span> that solve
